@@ -1,6 +1,6 @@
 # A Full Stack Mern Note Application!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# The app is made with `React`, `Redux` `React-Redux` in the frontend and `Node`, `Express` & `Mongodb` is used in the backend as well.
 
 It's an initial release. Final release with more functionality will be released soon
 
