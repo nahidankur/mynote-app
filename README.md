@@ -1,4 +1,4 @@
-# A Full Stack Mern Note Application!
+# A Full Stack Mern Note Web Application!
 
  The app is made with `React`, `Redux`, `React-Redux`, `Tailwindcss` in the frontend and `Node`, `Express` & `Mongodb` is used in the backend as well.
 
