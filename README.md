@@ -1,6 +1,6 @@
 # A Full Stack Mern Note Application!
 
- The app is made with `React`, `Redux` `React-Redux` in the frontend and `Node`, `Express` & `Mongodb` is used in the backend as well.
+ The app is made with `React`, `Redux`, `React-Redux`, `Tailwindcss` in the frontend and `Node`, `Express` & `Mongodb` is used in the backend as well.
 
 It's an initial release. Final release with more functionality will be released soon
 
